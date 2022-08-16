@@ -23,7 +23,7 @@ A small portion of the data was trained, to see if it the petal and sepal measur
 ### Database Integration
 AWS was used to store and manipulate the data: very little needed to be done to this data set.
 ### Dashboard
-
+A dashboard was created to provide a clear visualization of the data, clearly showing the relationship between petal and sepal measurements and the Iris species.
 ### link to dashboard:
 [link to dashboard](https://public.tableau.com/app/profile/cyril.sambrano/viz/IrisAnalysis_16594059191210/SepalLengthY)
 ### link to presentation slides:
