@@ -1,5 +1,5 @@
 library(tidyverse)
-data<-read.csv("C:/Users/colin_az7zrwq/OneDrive/Desktop/crypto/iris.csv")
+data<-read.csv("Resources/iris.csv")
 
 y1 <- data %>% filter(class=="Iris-setosa")
 y2 <- data %>% filter(class=="Iris-versicolor")
