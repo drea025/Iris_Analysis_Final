@@ -4,6 +4,7 @@ data<-read.csv("Resources/iris.csv")
 y1 <- data %>% filter(class=="Iris-setosa")
 y2 <- data %>% filter(class=="Iris-versicolor")
 y3 <- data %>% filter(class=="Iris-virginica")
+# y1, y2, y3 are variables representing the three different classes of iris.
 
 y1sl <- y1$sepal_length
 y1sw <- y1$sepal_width
