@@ -11,7 +11,6 @@ The following questions will be answered in the data analysis that this group wi
 1.	Exploratory data analysis: is there a difference in the length of the petals of the three different species?
 2.	Scatterplot: Do the different species display different lengths and/or width of sepals and petals?
 3.	Decision tree: Can the different attributes of the sepals and petals predict the species? 
-
 ### Data Overview
 ### Machine Learning Model
 ### Database Integration
