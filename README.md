@@ -17,6 +17,8 @@ The Iris dataset contains the length and width of petals and sepals in three dif
 After viewing the dataset for dimension, lack of absent or null values (4-10), the initial exploratory data analysis took place. 
 KDE plots were created of the total data so that the distribution of the measurements could be visualized (11-14).
 Initial scatter plots were used to visualize any patterns in the distribution of the data (16-17). 
+A correlation matrix was then used to view distinct differences in sizes between the different species, comparing petal width and petal length across the species. It was clear that the species Iris Setosa had significantly smaller petall width and length than the other two species. The same process was repeated for sepal length and width (19)
+A small portion of the data was trained, to see if it the petal and sepal measurements could be used to predict the species. This correlation showed how the variables related to one another, and also showed that the measurements of the petals and sepals can predict the idenitifcation of the Iris species(20). 
 
 ### Database Integration
 ### Dashboard
