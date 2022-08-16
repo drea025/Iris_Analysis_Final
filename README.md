@@ -12,6 +12,7 @@ The following questions will be answered in the data analysis that this group wi
 2.	Scatterplot: Do the different species display different lengths and/or width of sepals and petals?
 3.	Decision tree: Can the different attributes of the sepals and petals predict the species? 
 ### Data Overview
+The Iris dataset contains the length and width of petals and sepals in three different species of irises. There are fifty measurements of each species in the four different categories (petal width and length, and sepal width and length). 
 ### Machine Learning Model
 ### Database Integration
 ### Dashboard
