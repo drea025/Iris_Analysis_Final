@@ -14,6 +14,7 @@ The following questions will be answered in the data analysis that this group wi
 
 ### Data Overview
 The Iris dataset contains the length and width of petals and sepals in three different species of irises. There are fifty measurements of each species in the four different categories (petal width and length, and sepal width and length). 
+![dash](dash.png)
 
 ### Machine Learning Model: Method and Results
 After viewing the dataset for dimension, lack of absent or null values (4-10), the initial exploratory data analysis took place. 
